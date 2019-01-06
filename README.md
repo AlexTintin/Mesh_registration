@@ -35,7 +35,7 @@ A brief synthesis of my work as well as an analisys of the results is avalale he
 ## Acknowledgment
 
 This code uses a part of the work of Martin Kjer and Jakob Wilm from the Technical University of Denmark. Their work can be found [here](https://fr.mathworks.com/matlabcentral/fileexchange/27804-iterative-closest-point)
-'''
+```
 @mastersthesis{kjer2010evaluation,
   title={Evaluation of surface registration algorithms for PET motion correction},
   author={Kjer, Hans Martin and Wilm, Jakob},
@@ -43,4 +43,4 @@ This code uses a part of the work of Martin Kjer and Jakob Wilm from the Technic
   year={2010},
   school={Technical University of Denmark, DTU, DK-2800 Kgs. Lyngby, Denmark}
 }
-'''
+```
